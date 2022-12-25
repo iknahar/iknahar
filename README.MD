@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">ms Kamrun Nahar</h1>
+<h1 align="center">Kamrun Nahar</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iknahar&label=Profile%20views&color=0e75b6&style=flat" alt="iknahar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iknahar" alt="iknahar" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ik_knahar" target="blank"><img src="https://img.shields.io/twitter/follow/ik_knahar?logo=twitter&style=for-the-badge" alt="ik_knahar" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ik_nahar" target="blank"><img src="https://img.shields.io/twitter/follow/ik_nahar?logo=twitter&style=for-the-badge" alt="ik_nahar" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [nahar.netlify.app](nahar.netlify.app)
 
