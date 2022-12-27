@@ -10,25 +10,25 @@ Hello! It has been my pleasure to learn how to program by myself. The art of pro
 
 
 # Skills
-✨HTML
-✨CSS (BootStrap, Tailwind, MUI, SaaS)
-✨JavaScript 
-✨React.Js
-✨Firebase
-✨Node.Js
-✨Express.Js
-✨MongoDB
+✨HTML <br>
+✨CSS (BootStrap, Tailwind, MUI, SaaS) <br>
+✨JavaScript <br>
+✨React.Js <br>
+✨Firebase <br>
+✨Node.Js <br> 
+✨Express.Js <br>
+✨MongoDB <br>
 
 # Tools:
-⚙️Github
-⚙️Gitlab
-⚙️Jira
-⚙️Netlify
-⚙️Heroku
-⚙️Vercel
-⚙️Miro
-⚙️Figma+Figjam
-⚙️PhotoShop
+⚙️Github <br>
+⚙️Gitlab <br>
+⚙️Jira <br>
+⚙️Netlify <br>
+⚙️Heroku <br>
+⚙️Vercel <br>
+⚙️Miro <br>
+⚙️Figma+Figjam <br>
+⚙️PhotoShop <br>
 
 
 
