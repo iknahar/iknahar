@@ -9,7 +9,7 @@
 Hello! It has been my pleasure to learn how to program by myself. The art of programming and problem-solving has always appealed to me. I have always worked with user experience, so I use a different problem-solving methodology in programming, but that experience has helped me tremendously. At the moment, I am working as a Product Designer. I am learning JavaScript and Python right now.
 
 
-# Skills
+<!-- # Skills
 ✨HTML <br>
 ✨CSS (BootStrap, Tailwind, MUI, SaaS) <br>
 ✨JavaScript <br>
@@ -30,7 +30,10 @@ Hello! It has been my pleasure to learn how to program by myself. The art of pro
 ⚙️Vercel <br>
 ⚙️Miro <br>
 ⚙️Figma+Figjam <br>
-⚙️PhotoShop <br>
+⚙️PhotoShop <br> -->
+
+
+# Skills
 
 
 <hr>
