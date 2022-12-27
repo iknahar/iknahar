@@ -19,7 +19,7 @@ Hello! It has been my pleasure to learn how to program by myself. The art of pro
 ✨Express.Js <br>
 ✨MongoDB <br>
 
-![Designer | Developer](https://raw.githubusercontent.com/iknahar/iknahar/main/assets/heroimg.png)
+![Designer | Developer](https://github.com/iknahar/iknahar/blob/main/assets/code.gif?raw=true)
 
 # Tools:
 ⚙️Github <br>
