@@ -43,8 +43,7 @@ Hello! It has been my pleasure to learn how to program by myself. The art of pro
 <img src='https://raw.githubusercontent.com/iknahar/iknahar/main/assets/skills/line1/simple-icons_mui.svg' alt='mui' height='40'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <br>
-<img src='https://raw.githubusercontent.com/iknahar/iknahar/main/assets/skills/line2/logos_javascript.svg' alt='js' height='40'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src='https://raw.githubusercontent.com/iknahar/iknahar/main/assets/skills/line2/logos_react.svg' alt='rj' height='40'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='https://raw.githubusercontent.com/iknahar/iknahar/main/assets/skills/line2/logos_javascript.svg' alt='js' height='40'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src='https://raw.githubusercontent.com/iknahar/iknahar/main/assets/skills/line2/logos_react.svg' alt='rj' height='40'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src='https://raw.githubusercontent.com/iknahar/iknahar/main/assets/skills/line2/vscode-icons_file-type-firebase.svg' alt='firebase' height='40'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src='https://raw.githubusercontent.com/iknahar/iknahar/main/assets/skills/line2/logos_nodejs.svg' alt='node' height='40'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src='https://raw.githubusercontent.com/iknahar/iknahar/main/assets/skills/line2/logos_mongodb.svg' alt='mongo' height='40'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
