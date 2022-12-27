@@ -61,7 +61,7 @@ Find me on
 
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iknahar)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iknahar&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=iknahar&show_icons=true&count_private=true&theme=merko)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=iknahar&show_icons=true&count_private=true&theme=vision-friendly-dark)  
 
