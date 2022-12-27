@@ -54,7 +54,26 @@ Hello! It has been my pleasure to learn how to program by myself. The art of pro
 <br>
 
 
+# Other Tools
 
+<img src='https://raw.githubusercontent.com/iknahar/iknahar/main/assets/skills/line3/vscode-icons_file-type-netlify.svg' alt='Netlify' height='40'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='https://raw.githubusercontent.com/iknahar/iknahar/main/assets/skills/line3/logos_heroku-icon.svg' alt='Heroku' height='40'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='https://raw.githubusercontent.com/iknahar/iknahar/main/assets/skills/line3/logos_vercel.svg' alt='Vercel' height='40'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='https://raw.githubusercontent.com/iknahar/iknahar/main/assets/skills/line3/mdi_git.svg' alt='Git' height='40'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='https://raw.githubusercontent.com/iknahar/iknahar/main/assets/skills/line3/logos_jira.svg' alt='Jira' height='40'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+<br>
+
+
+# Design & Mind Mapping Tools
+
+<img src='https://raw.githubusercontent.com/iknahar/iknahar/main/assets/skills/line4/logos_figma.svg' alt='Fig' height='40'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='https://raw.githubusercontent.com/iknahar/iknahar/main/assets/skills/line4/logos_adobe-photoshop.svg' alt='PS' height='40'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='https://raw.githubusercontent.com/iknahar/iknahar/main/assets/skills/line4/logos_adobe-illustrator.svg' alt='AI' height='40'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='https://raw.githubusercontent.com/iknahar/iknahar/main/assets/skills/line4/logos_invision-icon.svg' alt='INS' height='40'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='https://github.com/iknahar/iknahar/blob/main/assets/skills/line4/miro.png?raw=true' alt='Miro' height='40'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='https://raw.githubusercontent.com/iknahar/iknahar/main/assets/skills/line4/radix-icons_notion-logo.svg' alt='Notion' height='40'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 <hr>
