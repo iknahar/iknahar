@@ -35,12 +35,12 @@ Hello! It has been my pleasure to learn how to program by myself. The art of pro
 
 # Skills
 
-[<img src='https://raw.githubusercontent.com/iknahar/iknahar/main/assets/skills/line1/vscode-icons_file-type-html.svg' alt='html' height='40'>]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src='https://raw.githubusercontent.com/iknahar/iknahar/main/assets/skills/line1/vscode-icons_file-type-css.svg' alt='css' height='40'>]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src='https://raw.githubusercontent.com/iknahar/iknahar/main/assets/skills/line1/logos_bootstrap.svg' alt='bs' height='40'>]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src='https://raw.githubusercontent.com/iknahar/iknahar/main/assets/skills/line1/logos_tailwindcss-icon.svg' alt='tw' height='40'>]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src='https://raw.githubusercontent.com/iknahar/iknahar/main/assets/skills/line1/vscode-icons_file-type-scss2.svg' alt='scss' height='40'>]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src='https://raw.githubusercontent.com/iknahar/iknahar/main/assets/skills/line1/simple-icons_mui.svg' alt='mui' height='40'>]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='https://raw.githubusercontent.com/iknahar/iknahar/main/assets/skills/line1/vscode-icons_file-type-html.svg' alt='html' height='40'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='https://raw.githubusercontent.com/iknahar/iknahar/main/assets/skills/line1/vscode-icons_file-type-css.svg' alt='css' height='40'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='https://raw.githubusercontent.com/iknahar/iknahar/main/assets/skills/line1/logos_bootstrap.svg' alt='bs' height='40'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='https://raw.githubusercontent.com/iknahar/iknahar/main/assets/skills/line1/logos_tailwindcss-icon.svg' alt='tw' height='40'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='https://raw.githubusercontent.com/iknahar/iknahar/main/assets/skills/line1/vscode-icons_file-type-scss2.svg' alt='scss' height='40'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='https://raw.githubusercontent.com/iknahar/iknahar/main/assets/skills/line1/simple-icons_mui.svg' alt='mui' height='40'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 
