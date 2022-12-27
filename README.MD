@@ -35,15 +35,17 @@ Hello! It has been my pleasure to learn how to program by myself. The art of pro
 
 <hr>
 - 🌱 I’m currently learning JavaScript, Python <br>
-- 📫 How to reach me: knahar.kamrun@gmail.com
+- 📫 How to reach me: Email at - <b> knahar.kamrun@gmail.com <b>
 
 
 
 
 <hr>
-# Social Links:
-Find me on 
 
+# Social Links:
+
+Find me on 
+<br>
 
 [<img src='https://raw.githubusercontent.com/iknahar/iknahar/main/assets/ri_github-fill.svg' alt='github' height='40'>](https://github.com/iknahar)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src='https://raw.githubusercontent.com/iknahar/iknahar/main/assets/bxl_dev-to.svg' alt='dev' height='40'>](https://dev.to/iknahar)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -53,11 +55,12 @@ Find me on
 [<img src='https://raw.githubusercontent.com/iknahar/iknahar/main/assets/ion_logo-codepen.svg' alt='codepen' height='40'>](https://codepen.io/iknahar)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src='https://raw.githubusercontent.com/iknahar/iknahar/main/assets/ant-design_twitter-circle-filled.svg' alt='TWt' height='40'>](https://twitter.com/ik_nahar)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src='https://raw.githubusercontent.com/iknahar/iknahar/main/assets/entypo-social_dribbble-with-circle.svg' alt='Dribbble' height='40'>](https://twitter.com/ik_nahar)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[<img src='https://raw.githubusercontent.com/iknahar/iknahar/main/assets/ic_outline-reddit.svg' alt='Dribbble' height='40'>](https://twitter.com/ik_nahar)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src='https://raw.githubusercontent.com/iknahar/iknahar/main/assets/jam_500px.svg' alt='Dribbble' height='40'>](https://twitter.com/ik_nahar)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src='https://raw.githubusercontent.com/iknahar/iknahar/main/assets/ic_outline-reddit.svg' alt='Dribbble' height='40'>](https://dribbble.com/iknahar)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src='https://raw.githubusercontent.com/iknahar/iknahar/main/assets/jam_500px.svg' alt='Dribbble' height='40'>](https://500px.com/p/iknahar)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 <hr>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iknahar)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iknahar&show_icons=true&count_private=true)  
