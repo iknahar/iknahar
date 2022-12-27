@@ -58,7 +58,7 @@ Hello! It has been my pleasure to learn how to program by myself. The art of pro
 
 <img src='https://raw.githubusercontent.com/iknahar/iknahar/main/assets/skills/line3/vscode-icons_file-type-netlify.svg' alt='Netlify' height='40'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src='https://raw.githubusercontent.com/iknahar/iknahar/main/assets/skills/line3/logos_heroku-icon.svg' alt='Heroku' height='40'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src='https://raw.githubusercontent.com/iknahar/iknahar/main/assets/skills/line3/logos_vercel.svg' alt='Vercel' height='40'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='https://raw.githubusercontent.com/iknahar/iknahar/main/assets/skills/line3/logos_vercel.svg' alt='Vercel' height='36'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src='https://raw.githubusercontent.com/iknahar/iknahar/main/assets/skills/line3/mdi_git.svg' alt='Git' height='40'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src='https://raw.githubusercontent.com/iknahar/iknahar/main/assets/skills/line3/logos_jira.svg' alt='Jira' height='40'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
