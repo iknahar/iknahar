@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Kamrun Nahar
-**' Creative Developer | JavaScript Enthusiast | Python Learner | Product Designer | UI/UX Designer'**
+**`Creative Developer | JavaScript Enthusiast | Python Learner | Product Designer | UI/UX Designer`**
 ![Designer | Developer](https://i.ibb.co/N3j7HRX/Frame-12.png)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
