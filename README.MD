@@ -45,17 +45,26 @@ Hello! It has been my pleasure to learn how to program by myself. The art of pro
 Find me on 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/iknahar)  
+[<img src='https://raw.githubusercontent.com/iknahar/iknahar/main/assets/ri_github-fill.svg' alt='github' height='40'>](https://github.com/iknahar)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/iknahar)  
+[<img src='https://raw.githubusercontent.com/iknahar/iknahar/main/assets/bxl_dev-to.svg' alt='dev' height='40'>](https://dev.to/iknahar)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/knahar/)  
+[<img src='https://raw.githubusercontent.com/iknahar/iknahar/main/assets/mingcute_linkedin-fill.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/knahar/)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/iknahar)  
+[<img src='https://raw.githubusercontent.com/iknahar/iknahar/main/assets/dashicons_facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/iknahar)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/iknahar/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/iknahar/)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/iknahar)  
+[<img src='https://raw.githubusercontent.com/iknahar/iknahar/main/assets/ion_logo-codepen.svg' alt='codepen' height='40'>](https://codepen.io/iknahar)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+[<img src='https://raw.githubusercontent.com/iknahar/iknahar/main/assets/ant-design_twitter-circle-filled.svg' alt='TWt' height='40'>](https://twitter.com/ik_nahar)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+[<img src='https://raw.githubusercontent.com/iknahar/iknahar/main/assets/entypo-social_dribbble-with-circle.svg' alt='Dribbble' height='40'>](https://twitter.com/ik_nahar)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+
+[<img src='https://raw.githubusercontent.com/iknahar/iknahar/main/assets/ic_outline-reddit.svg' alt='Dribbble' height='40'>](https://twitter.com/ik_nahar)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src='https://raw.githubusercontent.com/iknahar/iknahar/main/assets/ic_outline-reddit.svg' alt='Dribbble' height='40'>](https://twitter.com/ik_nahar)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src='https://raw.githubusercontent.com/iknahar/iknahar/main/assets/jam_500px.svg' alt='Dribbble' height='40'>](https://twitter.com/ik_nahar)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src='https://raw.githubusercontent.com/iknahar/iknahar/main/assets/jam_500px.svg' alt='Dribbble' height='40'>](https://twitter.com/ik_nahar)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 <hr>
