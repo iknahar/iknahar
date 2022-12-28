@@ -21,28 +21,23 @@ Hello! It has been my pleasure to learn how to program by myself. The art of pro
 
 
 
-<!-- # Skills
-✨HTML <br>
-✨CSS (BootStrap, Tailwind, MUI, SaaS) <br>
-✨JavaScript <br>
-✨React.Js <br>
-✨Firebase <br>
-✨Node.Js <br> 
-✨Express.Js <br>
-✨MongoDB <br>
+# Skills
+
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
+![BootStrap5](https://img.shields.io/badge/-BootStrap-000000?style=flat&logo=bootstrap)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+
 
 <hr>
 
 # Tools:
-⚙️Github <br>
-⚙️Gitlab <br>
-⚙️Jira <br>
-⚙️Netlify <br>
-⚙️Heroku <br>
-⚙️Vercel <br>
-⚙️Miro <br>
-⚙️Figma+Figjam <br>
-⚙️PhotoShop <br> -->
+
 
 
 # Skills
