@@ -13,14 +13,12 @@
 Hello! It has been my pleasure to learn how to program by myself. The art of programming and problem-solving has always appealed to me. I have always worked with user experience, so I use a different problem-solving methodology in programming, but that experience has helped me tremendously. I am experienced with HTML5, CSS3, JavaScript, ReactJS, NodeJS, MongoDB, MySQL, Python, and other programming dialects and libraries. As a project manager and customer relations professional, I have solid foundations in both fields. Worked on Agile, Scrum and MVC (Model-View-Controller) configuration design processes. At the moment, I am working as a Product Designer and Team Co ordinator. I am learning JavaScript and Python right now.
 
 
-
-<hr>
 - 🌱 I’m currently learning JavaScript, Python <br>
 - 📫 How to reach me: Email at - <b> knahar.kamrun@gmail.com <b>
 
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:knahar.kamrun@gmail.com) 
 
-
+<hr>
 
 # Skills
 
