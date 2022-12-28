@@ -10,17 +10,17 @@
 
 <!-- ![Designer | Developer](https://github.com/iknahar/iknahar/blob/main/assets/hero.jpg?raw=true) -->
 
-<img src='https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.webp' alt='html' height='150'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src='https://i.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.webp' alt='CSS' height='150'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src='https://i.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.webp' alt='BS' height='150'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src='https://i.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.webp' alt='Js' height='150'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src='https://i.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.webp' alt='React Js' height='150'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src='https://i.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.webp' alt='Firebase' height='150'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src='https://i.giphy.com/media/tAjb5pyCEBhEb8jWxC/giphy.webp' alt='Mongo' height='150'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src='https://i.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp' alt='Nodejs' height='150'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src='https://i.giphy.com/media/LMt9638dO8dftAjtco/giphy.webp' alt='python' height='150'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src='https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.webp' alt='Github' height='150'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src='https://i.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.webp' alt='Git' height='150'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.webp' alt='html' height='80'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='https://i.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.webp' alt='CSS' height='80'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='https://i.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.webp' alt='BS' height='80'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='https://i.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.webp' alt='Js' height='80'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='https://i.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.webp' alt='React Js' height='80'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='https://i.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.webp' alt='Firebase' height='80'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='https://i.giphy.com/media/tAjb5pyCEBhEb8jWxC/giphy.webp' alt='Mongo' height='80'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='https://i.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp' alt='Nodejs' height='80'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='https://i.giphy.com/media/LMt9638dO8dftAjtco/giphy.webp' alt='python' height='80'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.webp' alt='Github' height='80'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='https://i.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.webp' alt='Git' height='80'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <br>
 
