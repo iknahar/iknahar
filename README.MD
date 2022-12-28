@@ -21,7 +21,6 @@ Hello! It has been my pleasure to learn how to program by myself. The art of pro
 <hr>
 
 # Skills
-
 <img src='https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.webp' alt='html' height='80'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src='https://i.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.webp' alt='CSS' height='80'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src='https://i.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.webp' alt='BS' height='80'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -62,7 +61,6 @@ Hello! It has been my pleasure to learn how to program by myself. The art of pro
 -->
 
 # Other Tools
-
 <img src='https://raw.githubusercontent.com/iknahar/iknahar/main/assets/skills/line3/vscode-icons_file-type-netlify.svg' alt='Netlify' height='40'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src='https://raw.githubusercontent.com/iknahar/iknahar/main/assets/skills/line3/logos_heroku-icon.svg' alt='Heroku' height='40'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src='https://raw.githubusercontent.com/iknahar/iknahar/main/assets/skills/line3/logos_vercel.svg' alt='Vercel' height='30'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -74,7 +72,6 @@ Hello! It has been my pleasure to learn how to program by myself. The art of pro
 
 
 # Design & Mind Mapping Tools
-
 <img src='https://raw.githubusercontent.com/iknahar/iknahar/main/assets/skills/line4/logos_figma.svg' alt='Fig' height='40'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src='https://raw.githubusercontent.com/iknahar/iknahar/main/assets/skills/line4/logos_adobe-photoshop.svg' alt='PS' height='40'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src='https://raw.githubusercontent.com/iknahar/iknahar/main/assets/skills/line4/logos_adobe-illustrator.svg' alt='AI' height='40'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
