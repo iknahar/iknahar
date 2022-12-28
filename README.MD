@@ -33,6 +33,7 @@ Hello! It has been my pleasure to learn how to program by myself. The art of pro
 <img src='https://i.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.webp' alt='Git' height='80'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src='https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.webp' alt='VS Code' height='70'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src='https://i.giphy.com/media/jnDKffgCfGYOp6cMTK/giphy.webp' alt='Sublime Text' height='70'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<!-- <img src='https://i.giphy.com/media/tAjb5pyCEBhEb8jWxC/giphy.webp' alt='Mongo' height='100'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
 
 <br>
 
