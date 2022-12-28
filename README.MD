@@ -4,6 +4,10 @@
 <br>
 ![Designer | Developer](https://raw.githubusercontent.com/iknahar/iknahar/main/assets/heroimg.png)
 
+<br>
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:knahar.kamrun@gmail.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/100?label=Followers&style=social)](https://twitter.com/ik_nahar)
+
 
 # About Me
 Hello! It has been my pleasure to learn how to program by myself. The art of programming and problem-solving has always appealed to me. I have always worked with user experience, so I use a different problem-solving methodology in programming, but that experience has helped me tremendously. At the moment, I am working as a Product Designer. I am learning JavaScript and Python right now.
