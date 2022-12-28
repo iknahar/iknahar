@@ -10,7 +10,7 @@
 
 
 
-![Designer | Developer](https://raw.githubusercontent.com/iknahar/iknahar/main/assets/hero.jpg)
+![Designer | Developer](https://github.com/iknahar/iknahar/blob/main/assets/hero.png?raw=true)
 
 
 
