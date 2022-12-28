@@ -3,9 +3,7 @@
 **`Creative Developer | JavaScript Enthusiast | Python Learner | Product Designer | UI/UX Designer`**
 <br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?center=true&width=380&lines=Full+Stack+Web+Developer;Self+Taught+Programmer;Senior+UI%2FUX+Designer;1%2B+year+of+coding+experience;Always+learning+new+things">
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&weight=900&size=24&pause=1000&color=FBAF52&center=true&width=435&lines=MERN+Stack+Developer;JavaScript+Enthusiast;Self+Taught+Programmer;Senior+UI%2FUX+Designer)](https://git.io/typing-svg)
 
 ![Designer | Developer](https://raw.githubusercontent.com/iknahar/iknahar/main/assets/heroimg.png)
 
