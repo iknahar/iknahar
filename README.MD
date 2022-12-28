@@ -1,10 +1,14 @@
 # Hi there 👋, I'm Kamrun Nahar
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:knahar.kamrun@gmail.com) **`Creative Developer | JavaScript Enthusiast | Python Learner | Product Designer | UI/UX Designer`**
-<br>
 
-
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:knahar.kamrun@gmail.com) 
 
 <br>
+
+**`Creative Developer | JavaScript Enthusiast | Python Learner | Product Designer | UI/UX Designer`**
+
+<br>
+<br>
+
 ![Designer | Developer](https://raw.githubusercontent.com/iknahar/iknahar/main/assets/heroimg.png)
 
 
