@@ -15,7 +15,7 @@
 <img src='https://i.giphy.com/media/LMt9638dO8dftAjtco/giphy.webp' alt='python' height='150'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src='https://i.giphy.com/media/LMt9638dO8dftAjtco/giphy.webp' alt='python' height='150'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src='https://i.giphy.com/media/LMt9638dO8dftAjtco/giphy.webp' alt='python' height='150'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src='	https://i.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp' alt='Nodejs' height='150'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='https://i.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp' alt='Nodejs' height='150'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src='https://i.giphy.com/media/LMt9638dO8dftAjtco/giphy.webp' alt='python' height='150'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <br>
