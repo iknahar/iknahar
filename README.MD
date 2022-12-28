@@ -17,28 +17,7 @@
 # About Me
 Hello! It has been my pleasure to learn how to program by myself. The art of programming and problem-solving has always appealed to me. I have always worked with user experience, so I use a different problem-solving methodology in programming, but that experience has helped me tremendously. I am experienced with HTML5, CSS3, JavaScript, ReactJS, NodeJS, MongoDB, MySQL, Python, and other programming dialects and libraries. As a project manager and customer relations professional, I have solid foundations in both fields. Worked on Agile, Scrum and MVC (Model-View-Controller) configuration design processes. At the moment, I am working as a Product Designer and Team Co ordinator. I am learning JavaScript and Python right now.
 
-
-
-
-
-# Skills
-
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
-![BootStrap5](https://img.shields.io/badge/-BootStrap-000000?style=flat&logo=bootstrap)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
-
-
-<hr>
-
-# Tools:
-
-
+<br>
 
 # Skills
 
