@@ -21,6 +21,8 @@
 <img src='https://i.giphy.com/media/LMt9638dO8dftAjtco/giphy.webp' alt='python' height='80'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src='https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.webp' alt='Github' height='80'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src='https://i.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.webp' alt='Git' height='80'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.webp' alt='VS Code' height='80'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='https://i.giphy.com/media/jnDKffgCfGYOp6cMTK/giphy.webp' alt='Sublime Text' height='80'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <br>
 
