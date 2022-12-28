@@ -1,9 +1,5 @@
 # Hi there 👋, I'm Kamrun Nahar
 
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:knahar.kamrun@gmail.com) 
-
-<br>
-
 **`Creative Developer | JavaScript Enthusiast | Python Learner | Product Designer | UI/UX Designer`**
 
 <br>
@@ -88,6 +84,7 @@ Hello! It has been my pleasure to learn how to program by myself. The art of pro
 - 🌱 I’m currently learning JavaScript, Python <br>
 - 📫 How to reach me: Email at - <b> knahar.kamrun@gmail.com <b>
 
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:knahar.kamrun@gmail.com) 
 
 
 
