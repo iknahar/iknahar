@@ -10,6 +10,8 @@
 
 <!-- ![Designer | Developer](https://github.com/iknahar/iknahar/blob/main/assets/hero.jpg?raw=true) -->
 
+# Skills
+
 <img src='https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.webp' alt='html' height='80'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src='https://i.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.webp' alt='CSS' height='80'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src='https://i.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.webp' alt='BS' height='80'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -26,12 +28,8 @@
 
 <br>
 
-# About Me
-Hello! It has been my pleasure to learn how to program by myself. The art of programming and problem-solving has always appealed to me. I have always worked with user experience, so I use a different problem-solving methodology in programming, but that experience has helped me tremendously. I am experienced with HTML5, CSS3, JavaScript, ReactJS, NodeJS, MongoDB, MySQL, Python, and other programming dialects and libraries. As a project manager and customer relations professional, I have solid foundations in both fields. Worked on Agile, Scrum and MVC (Model-View-Controller) configuration design processes. At the moment, I am working as a Product Designer and Team Co ordinator. I am learning JavaScript and Python right now.
 
-<br>
-
-# Skills
+<!-- # Skills
 
 <img src='https://raw.githubusercontent.com/iknahar/iknahar/main/assets/skills/line1/vscode-icons_file-type-html.svg' alt='html' height='40'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src='https://raw.githubusercontent.com/iknahar/iknahar/main/assets/skills/line1/vscode-icons_file-type-css.svg' alt='css' height='40'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -47,10 +45,11 @@ Hello! It has been my pleasure to learn how to program by myself. The art of pro
 <img src='https://raw.githubusercontent.com/iknahar/iknahar/main/assets/skills/line2/logos_react.svg' alt='rj' height='40'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src='https://raw.githubusercontent.com/iknahar/iknahar/main/assets/skills/line2/vscode-icons_file-type-firebase.svg' alt='firebase' height='40'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src='https://raw.githubusercontent.com/iknahar/iknahar/main/assets/skills/line2/logos_nodejs.svg' alt='node' height='40'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src='https://raw.githubusercontent.com/iknahar/iknahar/main/assets/skills/line2/logos_mongodb.svg' alt='mongo' height='40'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='https://raw.githubusercontent.com/iknahar/iknahar/main/assets/skills/line2/logos_mongodb.svg' alt='mongo' height='40'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
 <br>
 
+-->
 
 # Other Tools
 
@@ -99,6 +98,12 @@ Find me on
 [<img src='https://raw.githubusercontent.com/iknahar/iknahar/main/assets/entypo-social_dribbble-with-circle.svg' alt='Dribbble' height='40'>](https://twitter.com/ik_nahar)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 [<img src='https://raw.githubusercontent.com/iknahar/iknahar/main/assets/ic_outline-reddit.svg' alt='Dribbble' height='40'>](https://dribbble.com/iknahar)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src='https://raw.githubusercontent.com/iknahar/iknahar/main/assets/jam_500px.svg' alt='Dribbble' height='40'>](https://500px.com/p/iknahar)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<br>
+
+# About Me
+Hello! It has been my pleasure to learn how to program by myself. The art of programming and problem-solving has always appealed to me. I have always worked with user experience, so I use a different problem-solving methodology in programming, but that experience has helped me tremendously. I am experienced with HTML5, CSS3, JavaScript, ReactJS, NodeJS, MongoDB, MySQL, Python, and other programming dialects and libraries. As a project manager and customer relations professional, I have solid foundations in both fields. Worked on Agile, Scrum and MVC (Model-View-Controller) configuration design processes. At the moment, I am working as a Product Designer and Team Co ordinator. I am learning JavaScript and Python right now.
+
 
 
 <hr>
