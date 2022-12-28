@@ -19,6 +19,8 @@
 <img src='https://i.giphy.com/media/tAjb5pyCEBhEb8jWxC/giphy.webp' alt='Mongo' height='150'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src='https://i.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp' alt='Nodejs' height='150'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src='https://i.giphy.com/media/LMt9638dO8dftAjtco/giphy.webp' alt='python' height='150'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.webp' alt='Github' height='150'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='https://i.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.webp' alt='Git' height='150'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <br>
 
