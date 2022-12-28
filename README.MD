@@ -10,7 +10,6 @@
 
 <!-- ![Designer | Developer](https://github.com/iknahar/iknahar/blob/main/assets/hero.jpg?raw=true) -->
 
-# About Me
 Hello! It has been my pleasure to learn how to program by myself. The art of programming and problem-solving has always appealed to me. I have always worked with user experience, so I use a different problem-solving methodology in programming, but that experience has helped me tremendously. I am experienced with HTML5, CSS3, JavaScript, ReactJS, NodeJS, MongoDB, MySQL, Python, and other programming dialects and libraries. As a project manager and customer relations professional, I have solid foundations in both fields. Worked on Agile, Scrum and MVC (Model-View-Controller) configuration design processes. At the moment, I am working as a Product Designer and Team Co ordinator. I am learning JavaScript and Python right now.
 
 
