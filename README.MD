@@ -14,6 +14,7 @@
 <img src='https://i.giphy.com/media/LMt9638dO8dftAjtco/giphy.webp' alt='python' height='150'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src='https://i.giphy.com/media/LMt9638dO8dftAjtco/giphy.webp' alt='python' height='150'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src='https://media1.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif?cid=790b76110e0b8f11b06d42e8b7c18c4dcabea4da2ff2b2ba&rid=giphy.gif&ct=s' alt='Firebase' height='150'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/Ri2TUcKlaOcaDBxFpY" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/devrock-code-edr-escueladevrock-Ri2TUcKlaOcaDBxFpY">via GIPHY</a></p>
 <img src='https://i.giphy.com/media/LMt9638dO8dftAjtco/giphy.webp' alt='python' height='150'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src='https://i.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp' alt='Nodejs' height='150'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src='https://i.giphy.com/media/LMt9638dO8dftAjtco/giphy.webp' alt='python' height='150'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
