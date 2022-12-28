@@ -3,7 +3,13 @@
 **`Creative Developer | JavaScript Enthusiast | Python Learner | Product Designer | UI/UX Designer`**
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&weight=900&size=24&pause=1000&color=FBAF52&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;JavaScript+Enthusiast;Self+Taught+Programmer;Senior+UI%2FUX+Designer)](https://git.io/typing-svg)
+<p align="center">
+
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&weight=900&size=24&pause=1000&color=FBAF52&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;JavaScript+Enthusiast;Self+Taught+Programmer;Senior+UI%2FUX+Designer)](https://git.io/typing-svg)
+
+</p>
+
+
 
 ![Designer | Developer](https://raw.githubusercontent.com/iknahar/iknahar/main/assets/heroimg.png)
 
