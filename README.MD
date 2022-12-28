@@ -18,7 +18,8 @@ Hello! It has been my pleasure to learn how to program by myself. The art of pro
 
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:knahar.kamrun@gmail.com) 
 
-<hr>
+<br>
+<br>
 
 # Skills
 <img src='https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.webp' alt='html' height='80'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -79,7 +80,9 @@ Hello! It has been my pleasure to learn how to program by myself. The art of pro
 <img src='https://github.com/iknahar/iknahar/blob/main/assets/skills/line4/miro.png?raw=true' alt='Miro' height='40'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src='https://raw.githubusercontent.com/iknahar/iknahar/main/assets/skills/line4/radix-icons_notion-logo.svg' alt='Notion' height='40'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<hr>
+<br>
+<br>
+<br>
 
 # Social Links:
 
@@ -98,6 +101,7 @@ Find me on
 [<img src='https://raw.githubusercontent.com/iknahar/iknahar/main/assets/jam_500px.svg' alt='Dribbble' height='40'>](https://500px.com/p/iknahar)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
+<br>
 <hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iknahar&theme=vision-friendly-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
