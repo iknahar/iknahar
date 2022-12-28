@@ -19,7 +19,6 @@ Hello! It has been my pleasure to learn how to program by myself. The art of pro
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:knahar.kamrun@gmail.com) 
 
 <br>
-<br>
 
 # Skills
 <img src='https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.webp' alt='html' height='80'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
