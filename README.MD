@@ -8,7 +8,12 @@
 
 
 # About Me
-Hello! It has been my pleasure to learn how to program by myself. The art of programming and problem-solving has always appealed to me. I have always worked with user experience, so I use a different problem-solving methodology in programming, but that experience has helped me tremendously. At the moment, I am working as a Product Designer. I am learning JavaScript and Python right now.
+Hello! It has been my pleasure to learn how to program by myself. The art of programming and problem-solving has always appealed to me. I have always worked with user experience, so I use a different problem-solving methodology in programming, but that experience has helped me tremendously. I am experienced with HTML5, CSS3, JavaScript, ReactJS, NodeJS, MongoDB, MySQL, Python, and other programming dialects and libraries. As a project manager and customer relations professional, I have solid foundations in both fields. Worked on Agile, Scrum and MVC (Model-View-Controller) configuration design processes. At the moment, I am working as a Product Designer and Team Co ordinator. I am learning JavaScript and Python right now.
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?center=true&width=380&lines=Full+Stack+Web+Developer;Self+Taught+Programmer;Senior+UI%2FUX+Designer;1%2B+years+of+coding+experience;Always+learning+new+things">
+</p>
 
 
 <!-- # Skills
