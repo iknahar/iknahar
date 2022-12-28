@@ -4,10 +4,9 @@
 <br>
 
 <p align="center">
-
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&weight=900&size=24&pause=1000&color=FBAF52&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;JavaScript+Enthusiast;Self+Taught+Programmer;Senior+UI%2FUX+Designer)](https://git.io/typing-svg)
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=poppins&weight=900&size=24&pause=1000&color=FBAF52&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;JavaScript+Enthusiast;Self+Taught+Programmer;Senior+UI%2FUX+Designer">
 </p>
+
 
 
 
